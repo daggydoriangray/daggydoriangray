@@ -1,0 +1,28 @@
+<DOCTYPE HTML>
+  <HTML>
+  <head>
+    <title>NOTES ON COMPUTER</title>
+  </head>
+    <body>
+ <p1 style="font-size:160%;">Hello,welcome to my website and i hope you will enjoy learning what's in here.</p1>  
+  <h1><b>Introduction to computer</b></h1>
+  <h2><i>Definition</i></h2>
+ <p2 style="font-size:300%;">Computer is an electronic device which when given data and instructions through input devices,it processes them to give information as an output</p2> 
+  <h3><i>Terminologies</i></h3>
+   <p3><li>Data- Refers to unprocessed information.</li>    
+  <li>Instructions- These are commands thta computer follows to perform a given task.</li>
+   <li>Program- Is a set of instruction that computer follows to perform a given task.</li> 
+     <li>Infformation- This refers to processed data.</li></p3> 
+  <h4><i>Features/Qualities of a computer</i></h4>
+     <li>It is an electrical appliance- It requires some sort of power to operate.</li>
+     <li>Data processor- It processes data to give information.</li>
+   <li>Storage device- It stores information for future reference.</li>
+  <li>It is automatic- It requires less human intervention once issued with data and instruction.</li>
+  <h5><i>Advantages of a computer</i></h5>
+  <li>It stores large chance of information in a limited space.</li>
+  <li>It is fast in processing data compared to human beings</li>
+  <li>It can perform the same task over and over</li>
+  <li>Information is fairly protected if the system is well managed</li>
+  <li>It always give accurate results when used with accurate data and instruction.</li>
+      
+</body>
